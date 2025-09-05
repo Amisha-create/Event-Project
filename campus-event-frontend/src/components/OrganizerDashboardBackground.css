@@ -1,0 +1,10 @@
+/*
+ * Background style for Organizer Dashboard using new online image URL
+ */
+.organizer-dashboard-bg {
+  background-image: url('https://static.vecteezy.com/system/resources/previews/000/533/573/original/abstract-light-technology-lines-art-background-and-space-vector.jpg');
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+  width: 100%;
+}
